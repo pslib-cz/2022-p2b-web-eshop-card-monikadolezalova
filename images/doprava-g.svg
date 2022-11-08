@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24px"
+   height="24px"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="doprava-g.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Icons / Doprava</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="-0.66101695"
+     inkscape:cy="12"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Icons / Doprava</title>
+  <g
+     id="Icons-/-Doprava"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     style="fill:#1c8121;fill-opacity:1">
+    <path
+       d="M18.4,7.4 C18.8810938,7.42625 19.3389062,7.61578124 19.6976562,7.93765624 L19.6976562,7.93765624 L23.52,11.76 C23.8265625,12.07 23.9990625,12.488125 24,12.9240625 L24,12.9240625 L24,15.4 C24,16.2835938 23.2835938,17 22.4,17 L22.4,17 L21.6,17 C21.6,18.3253125 20.5253125,19.4 19.2,19.4 C17.8746875,19.4 16.8,18.3253125 16.8,17 L16.8,17 L8,17 C8,18.3253125 6.92531248,19.4 5.6,19.4 C4.27468752,19.4 3.2,18.3253125 3.2,17 L3.2,17 L0.4,17 C0.17906248,17 0,16.8209375 0,16.6 L0,16.6 L0,14.2 L16,14.2 L16,7.4 Z M5.51592894,15.4022038 L5.34718752,15.4190625 C4.53968752,15.5490625 3.96,16.2670312 4.00328124,17.08375 C4.04671876,17.9007812 4.69921876,18.5532812 5.51625,18.5967188 C6.33296876,18.64 7.05093752,18.0603125 7.18093752,17.2528125 C7.25859376,16.7467188 7.090625,16.2335938 6.72843752,15.8715625 C6.36640624,15.509375 5.85328124,15.3414062 5.34718752,15.4190625 Z M19.1159289,15.4022038 L18.9471875,15.4190625 C18.1396875,15.5490625 17.56,16.2670312 17.6032812,17.08375 C17.6467188,17.9007812 18.2992188,18.5532812 19.11625,18.5967188 C19.9329688,18.64 20.6509375,18.0603125 20.7809375,17.2528125 C20.8585938,16.7467188 20.690625,16.2335938 20.3284375,15.8715625 C19.9664062,15.509375 19.4532812,15.3414062 18.9471875,15.4190625 Z M14.8,5 C15.0209375,5 15.2,5.17906248 15.2,5.4 L15.2,5.4 L15.2,13.4 L0,13.4 L0,5.4 C0,5.17906248 0.17906248,5 0.4,5 L0.4,5 Z M18.4,8.2 L17.6,8.2 L17.6,11.4 C17.6064062,11.618125 17.781875,11.7935938 18,11.8 L18,11.8 L22.4279688,11.8 L19.1240625,8.5 C18.9217188,8.32406248 18.6675,8.21875 18.4,8.2 L18.4,8.2 Z"
+       id="Doprava"
+       fill="#DA1E24"
+       style="fill:#1c8121;fill-opacity:1" />
+  </g>
+</svg>

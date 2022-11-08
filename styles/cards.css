@@ -1,0 +1,166 @@
+:root{
+    --text-1:#082c5d;
+    --bg-color-1:#f0f3fe;
+    --text-2:#3da253;
+    --bg-color-2:#d5fed6;
+    --text-3:#009901;
+    --bg-color-3:#1c8121;
+    --hover-1:#d93621;;
+    --hover-2:#135f34;
+    --text-4:#454545;
+    --dph:#686767;
+}
+.products{
+    display: flex;
+    align-items:stretch;
+    flex-wrap: wrap;
+    margin-left:1px;
+    margin-right: 12px;
+}
+.product{
+    border: none;
+    border-bottom: 1px solid #e1dfe0;
+    max-width: 350px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+}
+.product:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.product__images{
+    position: relative;
+    text-align: center;
+    color: black;
+}
+.product__images > img{
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+.product__flag--czech{
+    display: flex;
+    align-self: flex-start;
+    text-align: center;
+    height: 20px;
+    padding-left: 3px;
+    padding-right: 3px;
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    border: 2px solid var(--bg-color-1);
+    background: var(--bg-color-1);
+    color: var(--text-1);
+    border-radius: 5px;
+}
+.product__flag--czech > p{
+    margin: 0rem;
+    padding-right: 3px;
+    align-self: center;
+    font-weight: 800;
+    font-size: 13.5px;
+}
+.product__flag--czech::before{
+    content: url(../images/CZ.svg);
+    width: 16px;
+    height: 16px;
+    align-content: center;
+    padding-right: 10px;
+    padding-left: 5px;
+    position: relative;
+    display: inline-block;
+    align-self: center;
+}
+.product__flag--shipping{
+    position: absolute;
+    display: flex;
+    bottom: 10px;
+    font-size: 12px;
+    color:var(--text-2);
+    right: 0;
+    margin-right: 8px;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    height: 67px;
+    width: 62px;
+    padding: 6px 8px 5px 8px;
+    background-color: var(--bg-color-2);
+    border-radius: 50%;
+}
+.product__flag--shipping > p{
+    margin: 0px;
+}
+.product__flag--shipping::before{
+    content: url(../images/doprava-g.svg);
+    width: 40px;
+    height: 20px;
+    margin-bottom: 8px;
+    display: inline-block;
+    align-self: center;
+}
+.product__name{
+    text-decoration-line: underline;
+    font-size: 1em;
+}
+.product__name:hover{
+    color:var(--hover-1);
+}
+.product__content{
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+}
+.product__name{
+    font-size: 15px;
+}
+.product__availability{
+    display: flex;
+    text-align: right;
+    position: absolute;
+    right: 0;
+    color: var(--text-3);
+    padding-right: 5px;
+}
+.product__availability--amout{
+    margin-left: 1em;
+}
+.product__prize{
+    font-weight: 800;
+    font-size: 1.4em;
+    display: flex;
+    text-align: left;
+    flex-direction: column;
+}
+.product__prize--bezdph{
+    font-size: 11px;
+    font-weight: 400;
+    color: var(--dph);
+    margin-top: 3px;
+}
+.product__cta{
+    text-align: center;
+}
+.button {
+    height: 20px;
+    font-size: 13.5px;
+    background-color: var(--bg-color-3);
+    border: 2px solid var(--bg-color-3);
+    border-radius: 5px;
+    color: white;
+    padding: 10px 25px;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    display: flex;
+}
+.button:hover{
+    background-color: var(--hover-2);
+    border-color: var(--hover-2);
+}
+.product__desription{
+    font-size: 12.5px;
+    font-weight: 400;
+    color: var(--text-4);
+    padding-bottom: 15px;
+}
