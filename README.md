@@ -1,2 +1,3 @@
 # 2022-p2b-web-eshop-card-monikadolezalova
-2022-p2b-web-eshop-card-monikadolezalova created by GitHub Classroom
+## Stránka webu/projektu
+https://pslib-cz.github.io/2022-p2b-web-eshop-card-monikadolezalova/
