@@ -102,6 +102,8 @@
 .product__name{
     text-decoration-line: underline;
     font-size: 1em;
+    height: 65px;
+    margin-bottom:5px;
 }
 .product__name:hover{
     color:var(--hover-1);
